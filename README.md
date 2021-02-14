@@ -1,4 +1,4 @@
-# csoda_jaxa2021
+# C-SODA/JAXA2020年度
 2020年度宇宙科学情報解析シンポジウム資料公開用
 
 ![top_image](docs/img/pp1.png "top")
